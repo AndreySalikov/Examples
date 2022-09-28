@@ -1,0 +1,16 @@
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.deps.json
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.runtimeconfig.json
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\bin\Debug\net6.0\ref\Example001_HelloConcole.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.GlobalUsings.g.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.csproj.AssemblyReference.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.AssemblyInfoInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.AssemblyInfo.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\obj\Debug\net6.0\ref\Example001_HelloConcole.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.genruntimeconfig.cache
