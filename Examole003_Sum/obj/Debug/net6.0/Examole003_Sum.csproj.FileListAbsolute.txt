@@ -1,0 +1,16 @@
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\bin\Debug\net6.0\Examole003_Sum.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\bin\Debug\net6.0\Examole003_Sum.deps.json
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\bin\Debug\net6.0\Examole003_Sum.runtimeconfig.json
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\bin\Debug\net6.0\Examole003_Sum.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\bin\Debug\net6.0\ref\Examole003_Sum.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\bin\Debug\net6.0\Examole003_Sum.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\obj\Debug\net6.0\Examole003_Sum.GlobalUsings.g.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\obj\Debug\net6.0\Examole003_Sum.csproj.AssemblyReference.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\obj\Debug\net6.0\Examole003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\obj\Debug\net6.0\Examole003_Sum.AssemblyInfoInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\obj\Debug\net6.0\Examole003_Sum.AssemblyInfo.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\obj\Debug\net6.0\Examole003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\obj\Debug\net6.0\Examole003_Sum.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\obj\Debug\net6.0\ref\Examole003_Sum.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\obj\Debug\net6.0\Examole003_Sum.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Examole003_Sum\obj\Debug\net6.0\Examole003_Sum.genruntimeconfig.cache
