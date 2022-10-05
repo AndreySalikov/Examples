@@ -1,0 +1,16 @@
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\bin\Debug\net6.0\Example008_introMethod.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\bin\Debug\net6.0\Example008_introMethod.deps.json
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\bin\Debug\net6.0\Example008_introMethod.runtimeconfig.json
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\bin\Debug\net6.0\Example008_introMethod.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\bin\Debug\net6.0\ref\Example008_introMethod.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\bin\Debug\net6.0\Example008_introMethod.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\obj\Debug\net6.0\Example008_introMethod.GlobalUsings.g.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\obj\Debug\net6.0\Example008_introMethod.csproj.AssemblyReference.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\obj\Debug\net6.0\Example008_introMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\obj\Debug\net6.0\Example008_introMethod.AssemblyInfoInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\obj\Debug\net6.0\Example008_introMethod.AssemblyInfo.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\obj\Debug\net6.0\Example008_introMethod.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\obj\Debug\net6.0\Example008_introMethod.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\obj\Debug\net6.0\ref\Example008_introMethod.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\obj\Debug\net6.0\Example008_introMethod.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example008_introMethod\obj\Debug\net6.0\Example008_introMethod.genruntimeconfig.cache
