@@ -1,14 +1,23 @@
-﻿void FillArray(int[] collection)
+﻿// void FillArray(int[] collection)
+// {
+//     int length = collection.Length;
+//     int index = 0;
+//     while (index < length)
+//     {
+//         collection[index] = new Random().Next(1, 10);
+//         index++;
+//     }
+// }
+void FillArray(int[] collection)
 {
     int length = collection.Length;
     int index = 0;
     while (index < length)
     {
-        collection[index] = new Random().Next(1, 10);
+        collection[index] = Convert.ToInt32(Console.ReadLine());
         index++;
     }
 }
-
 void PrintArray(int[] col)
 {
     int count = col.Length;
@@ -37,13 +46,14 @@ int IndexOf(int[] collection, int find)
     return position;
 }
 int[] array = new int[10]; // создаем массив длиной 10 чисел по умалчанию он заполниться нулями
-
+System.Console.WriteLine("Введи масив");
 FillArray(array);
 array[4] = 4;
 array[6] = 4;
-
+System.Console.WriteLine("Твой М");
 PrintArray(array);
 System.Console.WriteLine();
 
-int pos = IndexOf(array, 444);
+int pos = IndexOf(array, 5);
+System.Console.Write("Индекс");
 System.Console.WriteLine(pos);
