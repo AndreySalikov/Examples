@@ -30,3 +30,19 @@ C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example012_Methods\obj\
 C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example012_Methods\obj\Debug\net6.0\ref\Example012.dll
 C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example012_Methods\obj\Debug\net6.0\Example012.pdb
 C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example012_Methods\obj\Debug\net6.0\Example012.genruntimeconfig.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\bin\Debug\net6.0\Example012.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\bin\Debug\net6.0\Example012.deps.json
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\bin\Debug\net6.0\Example012.runtimeconfig.json
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\bin\Debug\net6.0\Example012.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\bin\Debug\net6.0\ref\Example012.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\bin\Debug\net6.0\Example012.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\obj\Debug\net6.0\Example012.GlobalUsings.g.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\obj\Debug\net6.0\Example012.csproj.AssemblyReference.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\obj\Debug\net6.0\Example012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\obj\Debug\net6.0\Example012.AssemblyInfoInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\obj\Debug\net6.0\Example012.AssemblyInfo.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\obj\Debug\net6.0\Example012.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\obj\Debug\net6.0\Example012.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\obj\Debug\net6.0\ref\Example012.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\obj\Debug\net6.0\Example012.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example012_Methods\obj\Debug\net6.0\Example012.genruntimeconfig.cache

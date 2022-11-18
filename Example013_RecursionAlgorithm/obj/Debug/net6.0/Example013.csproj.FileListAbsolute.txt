@@ -14,3 +14,19 @@ C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example013_RecursionAlg
 C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\ref\Example013.dll
 C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013.pdb
 C:\Users\borzs\OneDrive\Рабочий стол\Examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013.genruntimeconfig.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\bin\Debug\net6.0\Example013.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\bin\Debug\net6.0\Example013.deps.json
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\bin\Debug\net6.0\Example013.runtimeconfig.json
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\bin\Debug\net6.0\Example013.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\bin\Debug\net6.0\ref\Example013.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\bin\Debug\net6.0\Example013.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013.GlobalUsings.g.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013.csproj.AssemblyReference.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013.AssemblyInfoInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013.AssemblyInfo.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\ref\Example013.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013.genruntimeconfig.cache

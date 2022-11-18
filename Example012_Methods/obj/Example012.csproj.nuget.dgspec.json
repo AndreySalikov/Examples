@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example012_Methods\\Example012.csproj": {}
+    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example012_Methods\\Example012.csproj": {}
   },
   "projects": {
-    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example012_Methods\\Example012.csproj": {
+    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example012_Methods\\Example012.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example012_Methods\\Example012.csproj",
+        "projectUniqueName": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example012_Methods\\Example012.csproj",
         "projectName": "Example012",
-        "projectPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example012_Methods\\Example012.csproj",
+        "projectPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example012_Methods\\Example012.csproj",
         "packagesPath": "C:\\Users\\borzs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example012_Methods\\obj\\",
+        "outputPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example012_Methods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

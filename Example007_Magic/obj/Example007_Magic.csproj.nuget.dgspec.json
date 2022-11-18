@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example007_Magic\\Example007_Magic.csproj": {}
+    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example007_Magic\\Example007_Magic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example007_Magic\\Example007_Magic.csproj": {
+    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example007_Magic\\Example007_Magic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example007_Magic\\Example007_Magic.csproj",
+        "projectUniqueName": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example007_Magic\\Example007_Magic.csproj",
         "projectName": "Example007_Magic",
-        "projectPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example007_Magic\\Example007_Magic.csproj",
+        "projectPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example007_Magic\\Example007_Magic.csproj",
         "packagesPath": "C:\\Users\\borzs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example007_Magic\\obj\\",
+        "outputPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example007_Magic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

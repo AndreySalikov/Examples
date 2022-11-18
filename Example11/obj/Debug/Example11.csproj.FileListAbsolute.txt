@@ -1,0 +1,7 @@
+c:\C#_for_kids\C#ForKidsProjects\Examples\Example11\bin\Debug\Example11.exe
+c:\C#_for_kids\C#ForKidsProjects\Examples\Example11\bin\Debug\Example11.pdb
+c:\C#_for_kids\C#ForKidsProjects\Examples\Example11\obj\Debug\ResolveAssemblyReference.cache
+c:\C#_for_kids\C#ForKidsProjects\Examples\Example11\obj\Debug\Example11.Properties.Resources.resources
+c:\C#_for_kids\C#ForKidsProjects\Examples\Example11\obj\Debug\Example11.csproj.GenerateResource.Cache
+c:\C#_for_kids\C#ForKidsProjects\Examples\Example11\obj\Debug\Example11.exe
+c:\C#_for_kids\C#ForKidsProjects\Examples\Example11\obj\Debug\Example11.pdb

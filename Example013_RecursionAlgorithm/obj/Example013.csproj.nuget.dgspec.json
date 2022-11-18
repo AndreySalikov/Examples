@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example013_RecursionAlgorithm\\Example013.csproj": {}
+    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example013_RecursionAlgorithm\\Example013.csproj": {}
   },
   "projects": {
-    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example013_RecursionAlgorithm\\Example013.csproj": {
+    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example013_RecursionAlgorithm\\Example013.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example013_RecursionAlgorithm\\Example013.csproj",
+        "projectUniqueName": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example013_RecursionAlgorithm\\Example013.csproj",
         "projectName": "Example013",
-        "projectPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example013_RecursionAlgorithm\\Example013.csproj",
+        "projectPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example013_RecursionAlgorithm\\Example013.csproj",
         "packagesPath": "C:\\Users\\borzs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Examples\\Example013_RecursionAlgorithm\\obj\\",
+        "outputPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Программирование на C#\\examples\\Example013_RecursionAlgorithm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

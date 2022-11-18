@@ -1,0 +1,14 @@
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example15\bin\Release\Example15.exe
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example15\bin\Release\Example15.pdb
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example15\obj\Release\ResolveAssemblyReference.cache
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example15\obj\Release\Example15.Properties.Resources.resources
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example15\obj\Release\Example15.csproj.GenerateResource.Cache
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example15\obj\Release\Example15.exe
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example15\obj\Release\Example15.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example15\bin\Release\Example15.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example15\bin\Release\Example15.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example15\obj\Release\Example15.Properties.Resources.resources
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example15\obj\Release\Example15.csproj.GenerateResource.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example15\obj\Release\Example15.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example15\obj\Release\Example15.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example15\obj\Release\Example15.pdb

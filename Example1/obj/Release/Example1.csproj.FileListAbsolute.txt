@@ -1,0 +1,11 @@
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example1\bin\Release\Example1.exe
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example1\bin\Release\Example1.pdb
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example1\obj\Release\ResolveAssemblyReference.cache
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example1\obj\Release\Example1.exe
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example1\obj\Release\Example1.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example1\bin\Release\Example1.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example1\bin\Release\Example1.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example1\obj\Release\Example1.csproj.AssemblyReference.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example1\obj\Release\Example1.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example1\obj\Release\Example1.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Программирование на C#\examples\Example1\obj\Release\Example1.pdb

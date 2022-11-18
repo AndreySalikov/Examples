@@ -1,0 +1,7 @@
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example3\bin\Release\Example3.exe
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example3\bin\Release\Example3.pdb
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example3\obj\Release\ResolveAssemblyReference.cache
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example3\obj\Release\Example3.Properties.Resources.resources
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example3\obj\Release\Example3.csproj.GenerateResource.Cache
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example3\obj\Release\Example3.exe
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example3\obj\Release\Example3.pdb
